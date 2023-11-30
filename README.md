@@ -11,7 +11,7 @@
 
 # 개발환경
 -Spring 
--InteliJ
+-IntelliJ
 -java 17 JDK
 -Spring boot:3.1.5
 -Dependencies: JPA, thymeleaf, spring web, lombok
